@@ -58,6 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -85,7 +86,9 @@
       <option name="presentableId" value="Default" />
       <updated>1604850831399</updated>
       <workItem from="1604850832441" duration="5230000" />
-      <workItem from="1604887940083" duration="11752000" />
+      <workItem from="1604887940083" duration="18979000" />
+      <workItem from="1604935913797" duration="4361000" />
+      <workItem from="1605101862491" duration="776000" />
     </task>
     <servers />
   </component>
@@ -102,5 +105,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

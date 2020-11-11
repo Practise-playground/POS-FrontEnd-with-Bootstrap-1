@@ -112,3 +112,22 @@ body {
 .main {
     margin-left: 200px;
 }
+
+h1{
+    padding: 10px 0;
+}
+
+.data{
+    margin-right: 20px;
+    color: lightgray;
+}
+
+.search{
+    width:400px ;
+    color: lightgray;
+    margin-right: 30px;
+}
+
+.buttons{
+    margin-right: 10px;
+}

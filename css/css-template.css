@@ -120,8 +120,14 @@ h1{
 .data{
     margin-right: 20px;
     color: lightgray;
+    text-align: center;
 }
-
+#dataForQty{
+    margin-left: 550px;
+    margin-right: 10px;
+    color: lightgray;
+    text-align: center;
+}
 .search{
     width:400px ;
     color: lightgray;
@@ -130,4 +136,26 @@ h1{
 
 .buttons{
     margin-right: 10px;
+}
+
+.comboBox{
+    margin-right: 20px;
+    width: 200px;
+    height: 25px;
+}
+
+.readonly{
+    text-align: center;
+    margin-right: 20px;
+}
+.totalCost{
+    color: crimson;
+    font-size: 20px;
+    padding-left: 20px;
+}
+#buttonPosition{
+
+}
+#lbltotalCost{
+    margin-right: 900px;
 }
